@@ -4,7 +4,7 @@ Children:
 - Name: BranchingEnabled
   Type: BaseDataVariableType
   DataType: Boolean
-  Value: true
+  Value: false
 - Name: PasswordPolicy
   Type: PasswordPolicy
   Children:
